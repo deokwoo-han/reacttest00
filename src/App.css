@@ -1,0 +1,11 @@
+div #hellotext {
+
+  font-size: 100px;
+  color: darkorchid;
+};
+
+div .classTest {
+
+  font-size: 50px;
+  color: chartreuse;
+};
